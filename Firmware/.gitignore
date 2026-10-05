@@ -1,16 +1,14 @@
-# https://tavotech.com/how-to-use-github-with-stm32cubeide/
+# based on https://tavotech.com/how-to-use-github-with-stm32cubeide/
 
 #settings
 .settings/
+.vscode/
 
 #metadata
 .metadata/
 
-#Debug
-Debug/
-debug/
-Release/
-release
+# Build
+build/
 
 # Prerequisites
 *.d
